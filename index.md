@@ -1,7 +1,7 @@
 ---
 layout: page
 title: can sydney do front end
-tagline: good question
+tagline: hmm good question
 description: stay tuned
 ---
 
