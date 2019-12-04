@@ -7,8 +7,10 @@
   margin: 30px 0; }
 
 .navbar .nav {
-  float: right;
-  color: black; }
+  float: right; }
+
+.navbar-custom {
+  background-color:#FF6987; }
 
 /* posts index */
 .post > h3.title {
