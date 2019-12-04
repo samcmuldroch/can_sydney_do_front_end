@@ -12,6 +12,10 @@
 .navbar-custom {
   background-color:#FF6987; }
 
+h2 {
+  color: #FF6987;
+  font-family: "Comic Sans MS", cursive, sans-serif; }
+
 /* posts index */
 .post > h3.title {
   position: relative;
