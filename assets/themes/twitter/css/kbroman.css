@@ -18,9 +18,21 @@ body {
   background-attachment: fixed;
 }
 
-h2 {
+h2, footer {
   color: #FF6987;
   font-family: "Comic Sans MS", cursive, sans-serif; 
+}
+
+a:link {
+  color: #FF6987;
+}
+
+a:visited {
+  color: #FFB6C4;
+}
+
+a:hover {
+  color: #69FFE1;
 }
 
 .page-header {
