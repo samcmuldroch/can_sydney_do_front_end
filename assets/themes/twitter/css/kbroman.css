@@ -18,7 +18,7 @@ body {
   background-attachment: fixed;
 }
 
-h2, footer {
+a code, h2, footer {
   color: #FF6987;
   font-family: "Comic Sans MS", cursive, sans-serif; 
 }
@@ -27,7 +27,7 @@ a:link {
   color: #FF6987;
 }
 
-a:visited {
+a:visited, h2 small {
   color: #FFB6C4;
 }
 
